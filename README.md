@@ -10,15 +10,8 @@ Hello! I am a **Quality Assurance (QA)** professional passionate about ensuring 
 - **Test Management:** TestRail, Zephyr, Xray  
 - **Programming Languages:** Java, JavaScript, Python  
 - **CI/CD and Integration:** Jenkins, GitHub Actions, Docker  
-- **Other Skills:** Gherkin (BDD), JMeter, K6  
-
----
-
-## 🔍 What Can You Find Here?  
-- **Test Automation Examples:** Scripts that demonstrate real-world scenarios and best practices.  
-- **Guides and Documentation:** Resources to help QA professionals get started with automation and testing strategies.  
-- **Collaborative Projects:** Contributions to open-source projects focused on improving software quality.  
-
+- **Other Skills:** Gherkin (BDD), JMeter, K6
+  
 ---
 
 ## 🌟 About Me  
