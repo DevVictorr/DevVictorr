@@ -21,7 +21,7 @@ I have experience in agile methodologies, manual and automated testing, and I’
 
 ## 🌐 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/victordsantunes/)
-- [Medium](https://medium.com/@victordsantunes/lists)
+- [Medium](https://medium.com/@victordsantunes)
 
 ---
 
