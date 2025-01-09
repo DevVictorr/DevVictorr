@@ -20,7 +20,7 @@ Com experiência no design e implementação de sistemas backend, gosto de resol
 ---
 
 ## 🌐 Conecte-se Comigo  
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/victordsantunes/))  
+- [LinkedIn](https://www.linkedin.com/in/victordsantunes/)
 
 ---
 
