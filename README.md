@@ -1,28 +1,28 @@
-# 👋 Welcome to My GitHub!
+# 👋 Bem-vindo ao Meu GitHub!
 
-Hello! I am a **Quality Assurance (QA)** professional passionate about ensuring excellence and reliability in digital products. Here, you will find projects and collaborations that showcase my expertise in software testing, automation, and quality assurance.
+Olá! Eu sou um **Desenvolvedor Backend** **Java**. Aqui, você encontrará projetos e colaborações que demonstram minha experiência em desenvolvimento backend, gerenciamento de bancos de dados e integração de sistemas.
 
 ---
 
-## 🚀 Technologies and Tools I Use  
-- **Test Automation:** Selenium, Cypress, Playwright  
-- **API Testing:** Postman, RestAssured  
-- **Test Management:** TestRail, Zephyr, Xray  
-- **Programming Languages:** Java, JavaScript, Python  
-- **CI/CD and Integration:** Jenkins, GitHub Actions, Docker  
-- **Other Skills:** Gherkin (BDD), JMeter, K6
+## 🚀 Tecnologias e Ferramentas que Eu Uso  
+- **Linguagens de Programação:** Java  
+- **Frameworks:** Spring, Spring Boot  
+- **Bancos de Dados:** MySQL, PostgreSQL  
+- **Controle de Versão:** Git, GitHub  
+- **Ferramentas de CI/CD:** Jenkins, Docker  
+- **Outras Habilidades:** APIs RESTful, Microsserviços, Hibernate  
   
 ---
 
-## 🌟 About Me  
-I have experience in agile methodologies, manual and automated testing, and I’m driven by a curiosity to learn new tools and techniques to optimize processes. I believe **quality** is a collaborative effort and enjoy helping teams deliver high-standard software.
+## 🌟 Sobre Mim  
+Com experiência no design e implementação de sistemas backend, gosto de resolver desafios complexos e otimizar processos. Tenho habilidades em metodologias ágeis.
 
 ---
 
-## 🌐 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/victordsantunes/)
-- [Medium](https://medium.com/@victordsantunes)
+## 🌐 Conecte-se Comigo  
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [GitHub](https://github.com/your-profile)  
 
 ---
 
-Thanks for visiting! 🚀
+Obrigado pela visita! 🚀
