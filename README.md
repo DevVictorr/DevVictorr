@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao Meu GitHub!
 
-Olá! Eu sou um **QA Engineer** apaixonado por garantir a qualidade de software através de testes automatizados e estratégias robustas. Aqui, você encontrará projetos que demonstram minha experiência em testes de APIs, aplicações web, sistemas em nuvem e também em QA de jogos, além de colaborações que refletem meu compromisso com a excelência.
+Olá! Eu sou um **QA** apaixonado por garantir a qualidade de software através de testes automatizados e estratégias robustas. Aqui, você encontrará projetos que demonstram minha experiência em testes de APIs, aplicações web, sistemas em nuvem e também em QA de jogos, além de colaborações que refletem meu compromisso com a excelência.
 
 ---
 
