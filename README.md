@@ -1,34 +1,16 @@
-# 👋 Bem-vindo ao Meu GitHub!
+# 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Olá! Eu sou um **Desenvolvedor Full Stack** com uma sólida base em **QA**, apaixonado por criar aplicações robustas e garantir sua qualidade. Aqui, você encontrará projetos que demonstram minha experiência em desenvolvimento front-end e back-end, além de práticas de testes automatizados e integração contínua.
-
----
-
-## 🚀 Tecnologias e Ferramentas que Eu Uso
-
-- **Linguagens de Programação:** C#, JavaScript/TypeScript  
-- **Frameworks e Bibliotecas:** Node.js, React, Express, .NET  
-- **Frameworks de Testes:** Playwright, NUnit, RestSharp  
-- **Ferramentas de Testes:** Postman, Insomnia  
-- **Ambientes e Plataformas:** Microsoft Azure, Microsoft Dynamics  
-- **Controle de Versão:** Git, GitHub  
-- **Outras Habilidades:** APIs RESTful, CI/CD, Testes automatizados, Integração de sistemas, QA de jogos  
+Oi, eu sou um **Desenvolvedor Full Stack** apaixonado por criar interfaces incríveis e sistemas robustos. Meu foco principal é o desenvolvimento **Front-End**, onde dou vida a projetos com **HTML**, **CSS**, **JavaScript** e **React**, mas também me aventuro no **Back-End**, usando tecnologias como **PHP** e **Java com Spring Boot**.
 
 ---
 
-## 🌟 Sobre Mim
+## 🚀 Tecnologias e ferramentas que eu uso:
 
-Como desenvolvedor Full Stack, atuo tanto no front-end quanto no back-end, construindo soluções completas e performáticas. Tenho experiência com **React** e **Node.js**, além de aplicações back-end com **.NET e C#**.  
-Meu histórico em **QA** me dá uma vantagem única para escrever código testável e confiável, integrando testes automatizados ao ciclo de desenvolvimento com ferramentas como **Playwright** e **NUnit**.  
-Também trabalho com **Microsoft Azure** e **Microsoft Dynamics**, e já atuei testando e desenvolvendo para jogos digitais.  
-Sigo metodologias ágeis (Scrum) e valorizo a colaboração e a qualidade em cada entrega.
+- **Front-End:** HTML, CSS, JavaScript, TypeScript, React
+- **Back-End:** PHP, Java (Spring Boot), Node.js, Express
+- **Testes:** Playwright, Selenium  
+- **Outras skills:** Git, GitHub, CI/CD, APIs RESTful, Scrum
 
----
-
-## 🌐 Conecte-se Comigo
+## 🌐 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/victordsantunes/)
-
----
-
-Obrigado pela visita! 🚀
